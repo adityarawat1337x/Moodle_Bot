@@ -53,6 +53,7 @@
 
 -I know you are lazy AF thats why you are using this script so 
  here is the link of chromedriver FU: https://chromedriver.chromium.org/downloads
+
 -For any queries join my instagram (promotion OP): i'll send you the link soon (as soon as i make an account)
  
 -Till then you have my Email: napster98766@gmail.com
