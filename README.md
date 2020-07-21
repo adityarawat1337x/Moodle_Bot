@@ -30,7 +30,7 @@
                                   7: Feel  free to add modifications like automatic timely execution or upload it to a server
                                      or like hack others fb account,twitter etc you can do anything with this script
                                      MOST IMPORTANT  "Please set your dashboard ui setting to card based"
-
+                                  8: goto link https://helpdeskgeek.com/windows-10/add-windows-path-environment-variable/ and follow tutorial to add chromedriver/geckodriver to path
 
                               #MODULES
                               EXTERNAL PACKAGES YOU NEED ARE:
