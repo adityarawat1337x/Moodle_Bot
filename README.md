@@ -42,7 +42,7 @@
                                 1: pip install selenium
                                 2: pip install bs4
                                 3: download geckdodriver from this link https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-win64.zip
-                                and add the path of downloaded file to (line 27) as mentioned above OR USE GOOGLE FOR ANY PROBLEMS
+                                and add the path of downloaded file to (line 44) as mentioned above OR USE GOOGLE FOR ANY PROBLEMS
 
                                 *NOTE: if you dont use mozilla start using it lol...
                                  just kidding if you dont want mozilla firefox and you are a chrome lover then go kill yourself..
