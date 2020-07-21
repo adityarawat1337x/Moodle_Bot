@@ -73,16 +73,14 @@ _▒______▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓�
 
 
 
-I know you are lazy AF thats why you are using this script so here is the link of chromedriver FU: https://chromedriver.chromium.org/downloads
-for any queries join my instagram (promotion OP): i'll send you the link soon (as soon as i make an account)
-till then you have my email:napster98766@gmail.com
-AND THIS GOOGLE FORM: https://forms.gle/bFq1ncrs4k5LiXFi6
-DONATIONS ACCEPTED KINDLY USE GOOGLE FORM TO DONATE AND ILL SHARE THE INFO
+-I know you are lazy AF thats why you are using this script so here is the link of chromedriver FU: https://chromedriver.chromium.org/downloads
 
-#MERI BAKWAAS
-At last a token of appreciation: i would like to thank my friends who helped 0% in this work but still they were there and i love them so..(ek do ka account lekar test kra tha maine vaise)
-i wont take names so: alexa op, aalu op, dadi op, selmon op, gajodhar op, avalon op (xd i hope u recognise),
-influencer(strong core) op,phullu op,jitsun op,mikki op,zoop op and others too whome i have forgot to mention @3am in the morning 
-im dozzing off so... dont kill yourself if i forgot
-i have spoken too much i guess so bbye
+-For any queries join my instagram (promotion OP): i'll send you the link soon (as soon as i make an account)
+
+-Till then you have my Email: napster98766@gmail.com
+
+-AND THIS GOOGLE FORM: https://forms.gle/bFq1ncrs4k5LiXFi6
+
+#MERI BAKWAAS At last a token of appreciation: i would like to thank my friends who helped 0% in this work but still they were there and i love them so..(ek do ka account lekar test kra tha maine vaise) i wont take names so: alexa, aalu, dadi, selmon, gajodhar, avalon(xd i hope u recognise), influencer(strong core), phullu, jitsun, mikki,zoop and others too whom i have forgot to mention @3am in the morning im dozzing off so... dont kill yourself if i forgot i have spoken too much i guess so bbye 
+
 *jonas hi adam hai*
