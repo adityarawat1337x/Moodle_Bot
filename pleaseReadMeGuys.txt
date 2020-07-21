@@ -28,12 +28,12 @@
 ░░░▀▀▄▄▀▀░█░░░▀▄▀▀▀▀█░░█		2: Add your moodle url in login page variable (line 15)
 ░░░░░░░░░░█░░░░▄░░▄██▄▄▀		3: Add full geckodriver path (line 44) 
 ░░░░░░░░░░█░░░░▄░░████			4: Dont change script name to yours!! have some respect okay!! nvm you'll do that anyway
-░░░░░░░░░░█▄░░▄▄▄░░▄█			5: If you want to see the browser tab remove the options parameter (line 44)
-░░░░░░░░░░░█▀▀░▄░▀▀█			6: Hints are given at specific parts
-░░░░░░░░░░░█░░░█░░░█            7: Feel  free to add modifications like automatic timely execution or upload it to a server
-░░░░░░░░░░░█░░░▐░░░█               or like hack others fb account,twitter etc you can do anything with this script
-░░░░░░░░░░░█░░░▐░░░█            MOST IMPORTANT  "Please set your dashboard ui setting to card based"
-░░░░░░░░░░░█░░░▐░░░█
+░░░░░░░░░░█▄░░▄▄▄░░▄█			  5: If you want to see the browser tab remove the options parameter (line 44)
+░░░░░░░░░░░█▀▀░▄░▀▀█			  6: Hints are given at specific parts
+░░░░░░░░░░░█░░░█░░░█        7: Feel  free to add modifications like automatic timely execution or upload it to a server
+░░░░░░░░░░░█░░░▐░░░█           or like hack others fb account,twitter etc you can do anything with this script
+░░░░░░░░░░░█░░░▐░░░█            MOST IMPORTANT  "Please set your dashboard ui setting to card based" 
+░░░░░░░░░░░█░░░▐░░░█        8: goto link https://helpdeskgeek.com/windows-10/add-windows-path-environment-variable/ and follow tutorial to add chromedriver/geckodriver to path
 ░░░░░░░░░░░█░░░▐░░░█
 ░░░░░░░░░░░█░░░▐░░░█
 ░░░░░░░░░░░█▄▄▄▐▄▄▄█
